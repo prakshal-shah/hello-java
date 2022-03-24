@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>xyz.tomd.demos</groupId>
-    <artifactId>hello-java</artifactId>
+    <artifactId>helloworld</artifactId>
     <version>1.0</version>
 
     <name>Hello Java</name>
