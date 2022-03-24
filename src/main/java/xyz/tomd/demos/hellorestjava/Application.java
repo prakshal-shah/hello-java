@@ -14,7 +14,7 @@ public class Application {
 
     public static void main(String[] args) {
         Undertow server = Undertow.builder()
-                .addHttpListener(8080, "0.0.0.0")
+                .addHttpListener(8090, "0.0.0.0")
                 .setHandler(exchange -> {
                     exchange.getResponseHeaders()
                             .put(Headers.CONTENT_TYPE, "text/html");
