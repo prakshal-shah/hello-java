@@ -6,7 +6,7 @@
 
     <groupId>xyz.tomd.demos</groupId>
     <artifactId>hello-java</artifactId>
-    <version>1.0.${revision}</version>
+    <version>1.0</version>
 
     <name>Hello Java</name>
     <description>A tiny website that says Hello World!</description>
