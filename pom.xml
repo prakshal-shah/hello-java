@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>xyz.tomd.demos</groupId>
+    <groupId>net.duclo.demo</groupId>
     <artifactId>helloworld</artifactId>
     <version>3.0</version>
 
@@ -75,7 +75,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>xyz.tomd.demos.hellorestjava.Application</mainClass>
+                                    <mainClass>net.duclo.demo.hellorestjava.Application</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
